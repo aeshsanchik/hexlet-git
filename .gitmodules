@@ -1,0 +1,3 @@
+[submodule "hexlet-hello-world/python-package"]
+	path = hexlet-hello-world/python-package
+	url = git@github.com:aeshsanchik/hexlet-git.git
